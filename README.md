@@ -1,5 +1,3 @@
-🛡️ Cybersecurity Portfolio – Sankar Innamuri
-
 Welcome to my personal cybersecurity portfolio website repository. This project showcases my professional background, hands-on skills, and practical experience in areas such as:
 
 - 🔍 Threat Detection & Incident Response  
